@@ -14,7 +14,7 @@ let vm = false;  // 启用VMess协议
 let scu = 'https://url.v1.mk/sub';  // 订阅转换地址
 // ECH (Encrypted Client Hello)
 let enableECH = false;
-let customDNS = 'https://dns.joeyblog.eu.org/joeyblog';
+let customDNS = 'https://dns.alidns.com/dns-query';
 let customECHDomain = 'cloudflare-ech.com';
 
 // 默认优选域名列表
